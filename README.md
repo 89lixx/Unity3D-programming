@@ -12,5 +12,5 @@
 >
 > 如：下载分支hw1内容
 >
-> git clone -b -hw1 https://github.com/89lixx/Unity3D-programming.git
+> git clone -b hw1 https://github.com/89lixx/Unity3D-programming.git
 
