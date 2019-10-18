@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{0A2895CE-A4CE-905F-2148-C00ED61E1A1C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controller/PhysicsActionManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controller/FirstSceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Controller/NewMonoBehaviour.cs" Line="7" Column="44" />
+      <File FileName="Assets/Scripts/Controller/Interface.cs" Line="13" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UFO-v2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Controller" expanded="True">
+                  <Node name="PhysicsActionManager.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9a95320b-e886-48af-b93f-57b7c9ba0edc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
