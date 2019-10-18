@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-
+using System.Collections.Generic;
 public enum GameStatus {
     Play, Win, Lose
 }
@@ -27,4 +27,16 @@ public interface IQueryStatus {
 public interface ISetStatus {
     void SetGameStatus(GameStatus gameStatus);
     void SetSceneStatus(SceneStatus scenceStatus);
+}
+
+//新增物理引擎部分
+public interface IActionController
+{
+    int GetRound();
+    int GetUFONum();
+    void SendUFO(List<GameObject> usingUFOs);
+
+    void DestroyUFO(GameObject UFO);
+
+    void SceneUpdate();
 }

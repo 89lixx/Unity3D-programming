@@ -394,6 +394,7 @@ GameObject:
   - component: {fileID: 1572233434}
   - component: {fileID: 1572233433}
   - component: {fileID: 1572233432}
+  - component: {fileID: 1572233436}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -525,6 +526,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ufoPrefab: {fileID: 1215514655298202, guid: 0fc26f00cd206ab4486e902ccb5e5560, type: 3}
+--- !u!114 &1572233436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1572233427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df35ca0e41523487e81b597a9a8b87ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2099340523
 GameObject:
   m_ObjectHideFlags: 0
