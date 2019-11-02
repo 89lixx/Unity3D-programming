@@ -13,4 +13,6 @@
 > 如：下载分支hw1内容
 >
 > git clone -b hw1 https://github.com/89lixx/Unity3D-programming.git
+>
+> 视频地址：http://id.tudou.com/i/UNzExNzcxNDQ1Ng==?spm=a2h3j.8428770.0.0
 
